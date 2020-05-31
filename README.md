@@ -2,7 +2,7 @@
 Here you can find some projects in Machine Learning field. These projects are the assignments of the Stanford Univesity course which presented in Coursera by Andrew Ng.
 
 # Projects
-ex1. Simple Linear Regression
+ex1. Simple Linear Regression \n
 ex2. Simple Logestic Regression
 ex3. Hand Written Digit Recognizer (Multi-Class Classification)
 ex4. Neural Networks implementation
