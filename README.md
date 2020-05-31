@@ -3,7 +3,6 @@ Here you can find some projects in Machine Learning field. These projects are th
 
 # Projects
 ex1. Simple Linear Regression
-
 ex2. Simple Logestic Regression
 ex3. Hand Written Digit Recognizer (Multi-Class Classification)
 ex4. Neural Networks implementation
